@@ -1,0 +1,105 @@
+header{
+    width: 100%;
+    padding:  40px 0;
+    background: #222;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    img{
+        width: 70px;
+    }
+    .header-ul{
+        display: flex;
+        margin-left: 800px;
+        .socials-li{
+            list-style: none;
+            .socials{
+                margin: 0 20px;
+                color: #999;
+                text-transform: uppercase;
+                font-size: 25px;
+                text-decoration: none;
+                transition: 0.4s;
+                &:hover{
+                    color: #ddd;
+                    transition: 0.4s;
+                }
+            }
+            }
+        }
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1260px){
+    header{
+        width: 100%;
+        padding:  40px 0;
+        background: #222;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        img{
+            width: 40px;
+        }
+        .header-ul{
+            display: flex;
+            margin-left: 300px;
+            .socials-li{
+                list-style: none;
+                .socials{
+                    margin: 0 20px;
+                    color: #999;
+                    text-transform: uppercase;
+                    font-size: 20px;
+                    text-decoration: none;
+                    transition: 0.4s;
+                    &:hover{
+                        color: #ddd;
+                        transition: 0.4s;
+                    }
+                }
+                }
+            }
+    }
+}
+
+@media screen and (max-width: 720px){
+    header{
+        width: 100%;
+        padding:  40px 0;
+        background: #222;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        img{
+            width: 30px;
+        }
+        .header-ul{
+            display: flex;
+            margin-left: -50px;
+            .socials-li{
+                list-style: none;
+                .socials{
+                    margin: 0 12px;
+                    color: #999;
+                    text-transform: uppercase;
+                    font-size: 16px;
+                    text-decoration: none;
+                    transition: 0.4s;
+                    &:hover{
+                        color: #ddd;
+                        transition: 0.4s;
+                    }
+                }
+                }
+            }
+    }
+}
+
+
