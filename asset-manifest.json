@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/typescript-songs/static/css/main.ca635578.css",
+    "main.js": "/typescript-songs/static/js/main.82af1565.js",
+    "static/js/787.dbacda08.chunk.js": "/typescript-songs/static/js/787.dbacda08.chunk.js",
+    "static/media/travisANTI.mp3": "/typescript-songs/static/media/travisANTI.6bb82030b22cae6d7308.mp3",
+    "static/media/travisgoo.mp3": "/typescript-songs/static/media/travisgoo.42b03637b918760fbc7d.mp3",
+    "static/media/gang.mp3": "/typescript-songs/static/media/gang.913b2cf7e5ef112ceb3b.mp3",
+    "static/media/travisMIA.mp3": "/typescript-songs/static/media/travisMIA.30f8d8c383561faa6ee7.mp3",
+    "static/media/doja.mp3": "/typescript-songs/static/media/doja.228935f80ef9adb15d76.mp3",
+    "static/media/travisFly.mp3": "/typescript-songs/static/media/travisFly.792737d4e019dec1d89a.mp3",
+    "static/media/travisHigh.mp3": "/typescript-songs/static/media/travisHigh.db68a6289a4337320c86.mp3",
+    "static/media/travis_bitches.mp3": "/typescript-songs/static/media/travis_bitches.8b6e2b727d96c70a5668.mp3",
+    "static/media/drak.mp3": "/typescript-songs/static/media/drak.fee7f2f4bce1f42f1e33.mp3",
+    "static/media/Jackboys.mp3": "/typescript-songs/static/media/Jackboys.bdcc26a8b8bb73145e67.mp3",
+    "static/media/LogoYellow.png": "/typescript-songs/static/media/LogoYellow.09a56a4a752fd12fc3a8.png",
+    "index.html": "/typescript-songs/index.html",
+    "main.ca635578.css.map": "/typescript-songs/static/css/main.ca635578.css.map",
+    "main.82af1565.js.map": "/typescript-songs/static/js/main.82af1565.js.map",
+    "787.dbacda08.chunk.js.map": "/typescript-songs/static/js/787.dbacda08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca635578.css",
+    "static/js/main.82af1565.js"
+  ]
+}
