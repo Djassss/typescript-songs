@@ -5,7 +5,7 @@ import { FontAwesomeIcon, } from '@fortawesome/react-fontawesome';
 import {  faGithub, faYahoo } from '@fortawesome/free-brands-svg-icons';
 import { faG } from '@fortawesome/free-solid-svg-icons';
 
-type socials = {
+interface socials  {
   id: number;
   to: string;
   icon: any;
